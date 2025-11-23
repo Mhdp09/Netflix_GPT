@@ -1,6 +1,6 @@
 # Netflix GPT
 
-A Netflix clone application integrated with GPT (AI) for smart movie recommendations. Built with React, Redux, and Firebase.
+A feature-rich Netflix clone application integrated with GPT (AI) for smart movie recommendations. Built with React, Redux Toolkit, Firebase, and Tailwind CSS.
 
 ## 🚀 Features
 
@@ -27,7 +27,7 @@ A Netflix clone application integrated with GPT (AI) for smart movie recommendat
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/phantom101198/Netflix_GPT.git
     ```
 
 2.  **Install dependencies:**
@@ -41,7 +41,12 @@ A Netflix clone application integrated with GPT (AI) for smart movie recommendat
     VITE_OPENAI_KEY=your_openai_key
     VITE_TMDB_KEY=your_tmdb_key
     VITE_FIREBASE_API_KEY=your_firebase_key
-    # Add other firebase config keys as needed
+    VITE_FIREBASE_AUTH_DOMAIN=your_project_id.firebaseapp.com
+    VITE_FIREBASE_PROJECT_ID=your_project_id
+    VITE_FIREBASE_STORAGE_BUCKET=your_project_id.firebasestorage.app
+    VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+    VITE_FIREBASE_APP_ID=your_app_id
+    VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
     ```
 
 4.  **Run the development server:**
